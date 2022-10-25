@@ -4,22 +4,22 @@
 "responses":["Hello Sir", "Hello Sir What can I do for you?"]}, 
 
 {"tag":"create_note", 
-"pattern":["please create a new note", "new note", "create a note", "i want to create a note"],
+"patterns":["please create a new note", "new note", "create a note", "i want to create a note"],
 "responses":""},
 
 
 {"tag":"add_todo", 
-"pattern":["i wnat to add a to do", "add a new to do ", "add a to do to my list", "new item on my to do list"],
+"patterns":["i wnat to add a to do", "add a new to do ", "add a to do to my list", "new item on my to do list"],
 "responses":""},
 
 
 
 {"tag":"show_todo", 
-"pattern":["show my to dos ", "what are my todos", "whats on my todo list"],
+"patterns":["show my to dos ", "what are my todos", "whats on my todo list"],
 "responses":""},
 
 {"tag":"exit", 
-"pattern":["bye", "stop", "quit", "that's all", "I have to go", "see you later"],
+"patterns":["bye", "stop", "quit", "that's all", "I have to go", "see you later"],
 "responses":""}
 
 
